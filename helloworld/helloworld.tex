@@ -1,0 +1,67 @@
+% !mode::"TeX:UTF-8"  因为WinEdt自身识别文档编码的能力不强所要求的，相当于告诉它这是UTF-8编码
+
+% 导言部分，定义文档的类型，所使用的宏包等信息，全局的设定，定义文档的通用属性
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+%\usepackage{xltxtra}  该宏在pdflatex中会报错
+\usepackage{mflogo,texnames}
+
+
+\author{WP}
+\title{My first \LaTeX{} article}
+
+%正文部分
+\begin{document}
+    \maketitle  %生成标题的命令
+    This is my first \LaTeX{} article!
+    
+    hello world!!
+    
+    %\XeTeX{},\XeLaTeX{},\AmSTeX{},\AmS-\LaTeX{},
+    %\BibTeX{},\LuaTeX{},Con\TeX{}t,
+    Con\TeX{}t,
+    
+    \METAFONT,\MF,\quad,\MP
+    
+    \section{First Section}
+    this is the first section
+    \subsection{First Subsection}
+    I like the first subsection
+    \subsection{Second Subsection}
+    I don't like the second subsection
+    \subsubsection{First Subsubsection}
+    \paragraph{1st paragraph}
+    this is the first paragraph
+    \subparagraph{1st Subparagraph}
+    this is the first subparagraph
+    \subparagraph{2nd subparagraph}
+    this the second subparagraph
+    \section{Second Section}
+    1+1=2, $1+1=2$, I know 1+1=2, $I\ really\ know 1+1=2$
+    this is in text mode, $this is in math mode,$ $this\ is\ in\ math\ in\ mode.$
+    
+    I know that you know $1+1=2$, but I know $2-1=1$, which you don't know. Now look at it $$2-1=1$$ I do know more than you.
+    
+    $\frac{2011}{2012}, x_1,x_2,\ldots,x_n, a^2+b^2=c^2, x_1^2+x_2^2+\dots+x_n^2=r^{100}, \sqrt{x+1}, \sqrt[3]{x^2+1}$
+    
+    $$\frac{2011}{2012}, x_1,x_2,\ldots,x_n, a^2+b^2=c^2, x_1^2+x_2^2+\dots+x_n^2=r^{100}, \sqrt{x+1}, \sqrt[3]{x^2+1}$$
+    
+    $\sin x, sin x, \sinh x, \max x, \log x, \log_2 x.$
+    
+    $a \in A, A \subset B, A \cap B, A \cup B, +\infty, \forall, \exists, f'(x),f''(x).$
+    
+    $\lim_{n \to\infty} a_n = 1, \sum_{n=1}^{\infty} n = 5050, \int_{a}^{b}f(x) \mathrm{d} x = I$
+    
+    $$\lim_{n \to\infty} a_n = 1, \sum_{n=1}^{\infty} n = 5050, \int_{a}^{b}f(x) \mathrm{d} x = I$$
+    
+    $$\lim_{n \to \infty} (n + \frac{1}{n})^n = e, \int_{-\infty}^{+\infty} \frac{\sin x}{x} \mathrm{d} x = I$$
+    
+    $a \times b, c \div d, a < b, b = c, c \neq d, d > e, e \geq f, f \leq g, g \geqslant h, h \leqslant i$ 
+    
+    $ \alpha,\beta,\gamma,\delta, \epsilon \varepsilon, \xi, \pi,\rho, \sigma, \eta, \theta, \phi, \varphi, \omega$
+    $\Gamma, \Delta, \Sigma, \Phi$
+    
+    $|A|, \|A\|, \vec{a}, \overrightarrow{AB}, \tilde{x}, \widetilde{xyz}, \mathrm{sin}, \mathbb{RCZQ}, \mathbf{ABCD}$
+    
+\end{document} 
