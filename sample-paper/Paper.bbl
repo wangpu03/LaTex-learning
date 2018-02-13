@@ -1,0 +1,94 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{10}
+
+\bibitem{AAB95}
+Y.~A. Abramovich, C.~D. Aliprantis, and O.~Burkinshaw, \emph{Another
+  characterization of the invariant subspace problem}, Operator Theory in
+  Function Spaces and Banach Lattices. {\em The A.C.\,Zaanen Anniversary
+  Volume}, Operator Theory: Advances and Applications \textbf{75} (1995),
+  15--31, Birkh\"auser Verlag.
+
+\bibitem{Con90}
+J.~B. Conway, \emph{A {Course} in {Functional} {Analysis}}, second ed.,
+  Springer-Verlag, New York, 1990.
+
+\bibitem{dB59}
+L.~de~Branges, \emph{The {Stone}-{Weierstrass} {Theorem}}, Proc. Amer. Math.
+  Soc. \textbf{10} (1959), 822--824.
+
+\bibitem{dB93}
+\bysame, \emph{A construction of invariant subspaces}, Math. Nachr.
+  \textbf{163} (1993), 163--175.
+
+\bibitem{Dev68}
+Allen Devinaz, \emph{Advanced {Calculus}}, Holt, Rinehart and Winston, New
+  York, 1968.
+
+\bibitem{DS57}
+N.~Dunford and J.~T. Schwartz, \emph{Linear {Operators}, {Part} {I}: {General}
+  {Theory}}, Interscience, New York, 1957.
+
+\bibitem{Enf87}
+P.~Enflo, \emph{On the invariant subspaces problem for {Banach} spaces}, Acta.
+  Math. \textbf{158} (1987), 213--313, Seminare Maurey-Schwartz (1975-1976).
+
+\bibitem{Gam90}
+R.~V. Gamkerlidze (ed.), \emph{Analysis {I}{I}: {Convex} {Analysis} and
+  {Approximation} {Theory}}, Encyclopaedia of Mathematical Sciences, vol.~14,
+  Springer-Verlag, New York, 1990.
+
+\bibitem{KR83}
+R.~V. Kadison and J.~R. Ringrose, \emph{Fundamentals of the {Theory} of
+  {Operator} {Algebras}, {Part} {I}}, Academic Press, New York, 1983.
+
+\bibitem{LM65}
+Ju.~I. Ljubi\v{c} and V.~I. Macaev, \emph{On operators with a separable
+  spectrum}, Amer. Math. Soc. Transl. (2) \textbf{47} (1965), 89--129.
+
+\bibitem{Lom73}
+V.~I. Lomonosov, \emph{Invariant subspaces for operators commuting with compact
+  operators}, Functional Anal. Appl. \textbf{7} (1973), 213--214.
+
+\bibitem{Lom91}
+\bysame, \emph{An extension of {Burnside}'s theorem to infinite dimensional
+  spaces}, Israel J. Math \textbf{75} (1991), 329--339.
+
+\bibitem{Lom92}
+\bysame, \emph{On {Real} {Invariant} {Subspaces} of {Bounded} {Operators} with
+  {Compact} {Imaginary} {Part}}, Proc. Amer. Math. Soc. \textbf{115} (1992),
+  no.~3, 775--777.
+
+\bibitem{Pau86}
+Vern~I. Paulsen, \emph{Completely bounded maps and dilations}, Pitman Research
+  Notes in Mathematics Series, vol. 146, Longman Scientific \& Technical,
+  Harlow UK, 1986.
+
+\bibitem{RR73}
+H.~Radjavi and P.~Rosenthal, \emph{Invariant {Subspaces}}, Springer-Verlag, New
+  York, 1973.
+
+\bibitem{Rea85}
+C.~J. Read, \emph{A solution to the invariant subspace problem on the space
+  $l_1$}, Bull. London Math. Soc. \textbf{17} (1985), 305--317.
+
+\bibitem{Sim94}
+A.~Simoni\v{c}, \emph{An {Extension} of {Lomonosov's} {Techniques} to
+  {Non}-{Compact} {Operators}}, Ph.D. thesis, Dalhousie University, Department
+  of Mathematics, Statistics, \& Computing Science, 1994.
+
+\bibitem{Sim96a}
+\bysame, \emph{A {Construction} of {Lomonosov} {Functions} and {Applications}
+  to the {Invariant} {Subspace} {Problem}}, Pacific J. Math. \textbf{175}
+  (1996), 257--270.
+
+\bibitem{Spi65}
+Michael Spivak, \emph{Calculus on {Manifolds}}, The Benjamin/Cummings
+  Publishing Company, New York, 1965.
+
+\end{thebibliography}
